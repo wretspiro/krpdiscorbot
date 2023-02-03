@@ -1,0 +1,19 @@
+{
+  "token": "MTA3MDMyMjYzMzE0NjY0MjQ1Mg.G8pFnR.zCwM8fImJSFlKkamWTs0BXCH0mPIP6xuPgzPN0", 
+  "sunucid": "1065612973449674772",
+  "developer": "986321190010380388",
+  "server": {
+    "ip": "23.88.73.88",
+    "port": "12225"
+  },
+  "guild": {
+    "jail": "1070341146305372309"
+  },
+  "logs": {
+    "ban": "1070341214487986216",
+    "basvuru": "1070341295303835759"
+  },
+  "log": "1070341295303835759",
+  "color": "#ffffff",
+  "duration": 5000 
+}
